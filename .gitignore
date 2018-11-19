@@ -1,0 +1,11 @@
+.gradle
+.idea
+build
+/build
+app/build
+./app/build
+./app/build/**
+./buid/**
+/build/**
+!build
+.vscode 
